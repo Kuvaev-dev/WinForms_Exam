@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Tamojka\Tamojka\bin\Debug\Tamojka.exe.config
+C:\Users\student\Desktop\Tamojka\Tamojka\bin\Debug\Tamojka.exe
+C:\Users\student\Desktop\Tamojka\Tamojka\bin\Debug\Tamojka.pdb
+C:\Users\student\Desktop\Tamojka\Tamojka\obj\Debug\Tamojka.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Tamojka\Tamojka\obj\Debug\Tamojka.Properties.Resources.resources
+C:\Users\student\Desktop\Tamojka\Tamojka\obj\Debug\Tamojka.Form1.resources
+C:\Users\student\Desktop\Tamojka\Tamojka\obj\Debug\Tamojka.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Tamojka\Tamojka\obj\Debug\Tamojka.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Tamojka\Tamojka\obj\Debug\Tamojka.exe
+C:\Users\student\Desktop\Tamojka\Tamojka\obj\Debug\Tamojka.pdb
